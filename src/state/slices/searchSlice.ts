@@ -3,27 +3,26 @@ import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 interface searchState {
     loading: boolean,
     error: string | null,
-    packages: string[]
+    name: string
 }
 
 const initialSearchState: searchState = {
     loading: false,
     error: null,
-    packages: []
+    name: ''
 }
 
 export const searchSlide = createSlice({
     name: 'search',
     initialState: initialSearchState,
     reducers: {
-        search: (state) => {
+        search: (state, action: PayloadAction<string>) => {
             state.loading = true
             state.error = null
-            state.packages = []
+            state.name = action.payload
         },
-        success: (state, action: PayloadAction<string[]>) => {
+        success: (state) => {
             state.loading = false
-            state.packages = action.payload
         },
         error: (state, action: PayloadAction<string>) => {
             state.loading = false
