@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/npm-search/static/css/main.1635e87c.chunk.css",
+    "main.js": "/npm-search/static/js/main.ee2f5d94.chunk.js",
+    "main.js.map": "/npm-search/static/js/main.ee2f5d94.chunk.js.map",
+    "runtime-main.js": "/npm-search/static/js/runtime-main.1459bc22.js",
+    "runtime-main.js.map": "/npm-search/static/js/runtime-main.1459bc22.js.map",
+    "static/js/2.685a9f78.chunk.js": "/npm-search/static/js/2.685a9f78.chunk.js",
+    "static/js/2.685a9f78.chunk.js.map": "/npm-search/static/js/2.685a9f78.chunk.js.map",
+    "static/js/3.a49c19d6.chunk.js": "/npm-search/static/js/3.a49c19d6.chunk.js",
+    "static/js/3.a49c19d6.chunk.js.map": "/npm-search/static/js/3.a49c19d6.chunk.js.map",
+    "index.html": "/npm-search/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/npm-search/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.685a9f78.chunk.js.LICENSE.txt": "/npm-search/static/js/2.685a9f78.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/npm-search/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1459bc22.js",
+    "static/js/2.685a9f78.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.ee2f5d94.chunk.js"
+  ]
+}
