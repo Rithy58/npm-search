@@ -1,7 +1,7 @@
 {
   "name": "npm-search",
   "version": "0.1.0",
-  "homepage": "https://rithy58.github.io/npm-search/",
+  "homepage": "https://rithy58.github.io/npm-search/build/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
